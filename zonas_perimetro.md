@@ -33,3 +33,9 @@
 | LAN -> DMZ | Si | Administrar por SSH | 
 | LAN -> Internet | Si | Navegación de usuarios |
 
+3. Un diagrama de la red. Puedes dibujarlo con el bloque de Mermaid de abajo (GitHub lo muestra solo) o subir una imagen.
+
+<img width="1152" height="637" alt="image" src="https://github.com/user-attachments/assets/10c7c884-9fcd-4733-a287-a81da0a29cd0" />
+
+4. Una pregunta de reflexión (3 o 4 líneas): si cae el servidor web, ¿qué puede hacer el atacante en tu diseño y qué se lo impide?
+
