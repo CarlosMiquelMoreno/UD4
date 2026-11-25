@@ -39,3 +39,4 @@
 
 4. Una pregunta de reflexión (3 o 4 líneas): si cae el servidor web, ¿qué puede hacer el atacante en tu diseño y qué se lo impide?
 
+Si cae el servidor web, el atacante estará en la zona DMZ, haciendo asi que no pueda ni acceder a la LAN y a la zona crítica por medio de los 2 cortafuegos. Puede modificar o robar los datos en ese servidor, atacar el proxy, servidor web de correo o la VPN. Y no puede acceder a los portatiles, ir directo a la Zona crítica y interceptar trafico de el wifi de invitados.
